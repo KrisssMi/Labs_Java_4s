@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.2" class="java.beans.XMLDecoder">
+ <object class="by.minevich.bstu.team.Admin" id="Admin0">
+  <void class="by.minevich.bstu.human.Human" method="getField">
+   <string>name</string>
+   <void method="set">
+    <object idref="Admin0"/>
+    <string>Ксения</string>
+   </void>
+  </void>
+  <void class="by.minevich.bstu.human.Human" method="getField">
+   <string>age</string>
+   <void method="set">
+    <object idref="Admin0"/>
+    <int>34</int>
+   </void>
+  </void>
+  <void property="salary">
+   <float>1222.2</float>
+  </void>
+ </object>
+</java>
