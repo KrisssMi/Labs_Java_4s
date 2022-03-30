@@ -1,0 +1,9 @@
+31.03.2022 01:49:31 [main] INFO  Main  - Starting program.
+31.03.2022 01:49:31 [main] INFO  Main  - Connection to Weather database is succesfull!
+31.03.2022 01:49:32 [main] INFO  Main  - > The first request: weather information in Rome.
+31.03.2022 01:49:32 [main] INFO  Main  - > The second request: weather information in Minsk where temperature <0  and precipitation >10.
+31.03.2022 01:49:32 [main] INFO  Main  - > The third request: information about the weather over the past week in the regions
+whose inhabitants communicate in French.
+31.03.2022 01:49:32 [main] INFO  Main  - > The fourth request: average temperature in regions with
+area of more than 350.
+31.03.2022 01:49:32 [main] INFO  Main  - The end of program.
